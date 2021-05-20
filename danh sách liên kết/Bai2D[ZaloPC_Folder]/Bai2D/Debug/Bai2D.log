@@ -1,0 +1,4 @@
+﻿  program.cpp
+e:\2011432_nguyenngocson_lab07_llist\bai2d\bai2d\thuvien.h(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai2D.vcxproj -> E:\2011432_NguyenNgocSon_Lab07_LList\Bai2D\Debug\Bai2D.exe
+  Bai2D.vcxproj -> E:\2011432_NguyenNgocSon_Lab07_LList\Bai2D\Debug\Bai2D.pdb (Full PDB)

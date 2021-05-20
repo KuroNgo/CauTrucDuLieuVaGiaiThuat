@@ -1,5 +1,0 @@
-﻿  program.cpp
-c:\users\hello\documents\visual studio 2015\projects\2011423_ngohoaiphong_lab02_\2011423_ngohoaiphong_lab02_\thuvien.h(40): error C2084: function 'int TKTT_DauTien(int [],int,int)' already has a body
-  c:\users\hello\documents\visual studio 2015\projects\2011423_ngohoaiphong_lab02_\2011423_ngohoaiphong_lab02_\thuvien.h(20): note: see previous definition of 'TKTT_DauTien'
-c:\users\hello\documents\visual studio 2015\projects\2011423_ngohoaiphong_lab02_\2011423_ngohoaiphong_lab02_\menu.h(64): error C2568: '=': unable to resolve function overload
-  c:\users\hello\documents\visual studio 2015\projects\2011423_ngohoaiphong_lab02_\2011423_ngohoaiphong_lab02_\menu.h(64): note: could be 'int TKTT_DauTien(int [],int,int)'
